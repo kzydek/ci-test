@@ -1,0 +1,6 @@
+.idea
+*.iml
+.vscode/
+/debug
+/temp_*
+.DS_Store
